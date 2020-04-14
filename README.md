@@ -1,2 +1,2 @@
 # Sports Analytics
- 
+ Model: Baysian
